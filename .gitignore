@@ -10,3 +10,4 @@ gradlew.bat
 settings.graddle
 .idea/
 /gradle
+*.rar

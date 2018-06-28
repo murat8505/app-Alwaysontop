@@ -1,8 +1,10 @@
+.git
 .gradle
 /local.properties
 /.idea/workspace.xml
 .DS_Store
-build.gradle
+app/build
+build
 gradlew
 gradlew.bat
 settings.graddle
